@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitReps\\Quiron\\Backend\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi.csproj": {}
+    "D:\\GitReps\\senai-quiron\\Quiron\\Backend\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\GitReps\\Quiron\\Backend\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi.csproj": {
+    "D:\\GitReps\\senai-quiron\\Quiron\\Backend\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitReps\\Quiron\\Backend\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi.csproj",
+        "projectUniqueName": "D:\\GitReps\\senai-quiron\\Quiron\\Backend\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi.csproj",
         "projectName": "Senai.Quiron.WebApi",
-        "projectPath": "D:\\GitReps\\Quiron\\Backend\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi.csproj",
+        "projectPath": "D:\\GitReps\\senai-quiron\\Quiron\\Backend\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "D:\\GitReps\\Quiron\\Backend\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi\\obj\\",
+        "outputPath": "D:\\GitReps\\senai-quiron\\Quiron\\Backend\\Senai.Quiron.WebApi\\Senai.Quiron.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

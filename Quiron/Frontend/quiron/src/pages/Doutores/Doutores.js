@@ -6,6 +6,7 @@ import remove from "./../../assets/imgs/remove.png"
 import { Spinner } from 'react-activity';
 import ReactModal from 'react-modal'
 import Axios from 'axios';
+import loading from './../../assets/imgs/loading.gif'
 
 // import { Container } from './styles';
 
@@ -167,7 +168,7 @@ export default class Doutores extends Component {
                 <div className="center">
                     {(this.state.loading)
                         ?
-                        (<Spinner color="black" />)
+                        (<img src={loading} />)
                         : (
                             <table className="table">
                                 <thead>
