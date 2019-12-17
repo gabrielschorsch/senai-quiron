@@ -6,6 +6,13 @@
     justify-content: space-between;
 }
 
+a{
+    text-decoration: underline;
+    text-decoration-color: #444;
+    text-decoration-thickness: 1px;
+    color:black
+}
+
 .logo {
     height:10vh;
     align-self: center;

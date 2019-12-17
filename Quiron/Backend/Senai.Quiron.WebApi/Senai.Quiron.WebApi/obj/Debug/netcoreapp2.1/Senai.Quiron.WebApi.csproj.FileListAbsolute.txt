@@ -12,3 +12,17 @@ D:\GitReps\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\obj\Debug\netc
 D:\GitReps\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\bin\Debug\netcoreapp2.1\Senai.Quiron.WebApi.pdb
 D:\GitReps\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\obj\Debug\netcoreapp2.1\Senai.Quiron.WebApi.dll
 D:\GitReps\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\obj\Debug\netcoreapp2.1\Senai.Quiron.WebApi.pdb
+D:\GitReps\senai-quiron\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\GitReps\senai-quiron\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\bin\Debug\netcoreapp2.1\Senai.Quiron.WebApi.deps.json
+D:\GitReps\senai-quiron\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\bin\Debug\netcoreapp2.1\Senai.Quiron.WebApi.runtimeconfig.json
+D:\GitReps\senai-quiron\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\bin\Debug\netcoreapp2.1\Senai.Quiron.WebApi.runtimeconfig.dev.json
+D:\GitReps\senai-quiron\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\bin\Debug\netcoreapp2.1\Senai.Quiron.WebApi.dll
+D:\GitReps\senai-quiron\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\bin\Debug\netcoreapp2.1\Senai.Quiron.WebApi.pdb
+D:\GitReps\senai-quiron\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\obj\Debug\netcoreapp2.1\Senai.Quiron.WebApi.csprojAssemblyReference.cache
+D:\GitReps\senai-quiron\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\obj\Debug\netcoreapp2.1\Senai.Quiron.WebApi.RazorAssemblyInfo.cache
+D:\GitReps\senai-quiron\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\obj\Debug\netcoreapp2.1\Senai.Quiron.WebApi.RazorAssemblyInfo.cs
+D:\GitReps\senai-quiron\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\obj\Debug\netcoreapp2.1\Senai.Quiron.WebApi.AssemblyInfoInputs.cache
+D:\GitReps\senai-quiron\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\obj\Debug\netcoreapp2.1\Senai.Quiron.WebApi.AssemblyInfo.cs
+D:\GitReps\senai-quiron\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\obj\Debug\netcoreapp2.1\Senai.Quiron.WebApi.RazorTargetAssemblyInfo.cache
+D:\GitReps\senai-quiron\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\obj\Debug\netcoreapp2.1\Senai.Quiron.WebApi.dll
+D:\GitReps\senai-quiron\Quiron\Backend\Senai.Quiron.WebApi\Senai.Quiron.WebApi\obj\Debug\netcoreapp2.1\Senai.Quiron.WebApi.pdb

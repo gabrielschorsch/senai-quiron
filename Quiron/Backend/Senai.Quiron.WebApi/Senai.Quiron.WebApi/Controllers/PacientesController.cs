@@ -45,7 +45,7 @@ namespace Senai.Quiron.WebApi.Controllers {
             }
         }
 
-        [HttpPut("{id}")]
+        [HttpPut("{idPaciente}")]
         public IActionResult Atualizar (int idPaciente,Pacientes paciente) {
             try {
                 pacientesRepository.AtualizarPaciente(idPaciente,paciente);
@@ -55,7 +55,7 @@ namespace Senai.Quiron.WebApi.Controllers {
             }
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("{idPaciente}")]
         public IActionResult Remover (int idPaciente) {
             try {
                 pacientesRepository.RemoverPaciente(idPaciente);
