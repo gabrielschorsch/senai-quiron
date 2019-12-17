@@ -1,0 +1,66 @@
+.all {
+    background: rgb(240, 251, 253);
+    height:100vh;
+}
+
+.tableHeader{
+    color:black;
+    font-weight: bold;
+}
+
+.input {
+    border:none;
+    background:none;
+    border-bottom: 1px solid rgb(0, 128, 160);
+    width:20%;
+    margin: 1em
+}
+
+.btnCadastrar {
+    background: #4b74c8;
+    padding:0.5em 0.4em;
+    border:1px solid #000;
+    border-radius:5px;
+    color:#f1f1f1;
+    margin-left:5em;
+}
+
+.signup {
+    width:40vw;
+    background: rgba(74, 250, 250, 0.281);
+    margin: 1em  30vw;
+    padding:2em;
+    border-radius: 30px;
+}
+
+
+.tableCell {
+    width:10vw;
+    height:5vh;
+    border:rgba(199, 245, 253, 0.568)
+
+}
+
+.tableCell:nth-child(even){
+    background-color: rgb(199, 245, 253);
+}
+
+.tableCell:nth-child(odd){
+    background-color: rgb(181, 240, 250);
+}
+
+
+
+.tableItem{
+    color:black;
+    text-align: center;
+}
+
+.edit {
+    height:2vh;
+}
+
+.imgBtn {
+    background-color: rgba(0, 0, 0, 0);
+    border:none
+}
